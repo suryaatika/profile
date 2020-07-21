@@ -1,0 +1,47 @@
+.Tika-bg{
+	background: linear-gradient(to right, rgba(42, 83, 160, 0.92), rgba(13, 96, 104, 0.92));
+}
+
+.Tika_jumbotron-bg{
+	background-size: cover;
+	background: url(../img/bg.jpg);
+	background-size: 300px;
+	text-align: center;
+	margin-top: -130px;
+}
+.display-4{
+	margin-top: 150px;
+}
+.jumbotron .btn{
+	border-radius: 25px;
+}
+.jumbotron img {
+    width: 200px;
+	border: 5px solid black;
+	margin-top: 90px;
+}
+.main-skill{
+	background-color: black;
+	padding: 5% 0;
+	margin-bottom: 40px;
+
+}
+.main-skill h4 {
+	color: white;
+}
+.progress {
+	margin: 1% 0;
+} 
+.main-title {
+	margin-bottom: 4%;
+}
+.main-kontak {
+	padding: 5% 0;
+}
+.main-kontak h4 {
+	margin-bottom: 4%;
+}
+.main-karyatika {
+	background-color: #000000;
+	padding: 12% 0;
+}
